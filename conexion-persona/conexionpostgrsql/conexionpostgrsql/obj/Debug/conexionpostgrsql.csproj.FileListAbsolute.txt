@@ -1,0 +1,1 @@
+c:\users\user\documents\visual studio 2012\Projects\conexionpostgrsql\conexionpostgrsql\bin\Debug\conexionpostgrsql.exe.config
